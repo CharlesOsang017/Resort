@@ -1,6 +1,6 @@
 h1{
-    background-color: darkmagenta;
+color: darkmagenta;
 }
-ul{
-    background-color: darkolivegreen;
-}
+li a:hover{
+    background-color: blue;
+} 
